@@ -1,0 +1,29 @@
+# Insurance Risk Analytics - Required Packages
+# Core data science packages
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Machine learning (for later tasks)
+scikit-learn>=1.1.0
+
+# Data visualization
+plotly>=5.0.0
+
+# Utilities
+pathlib2>=2.3.0
+typing-extensions>=4.0.0
+
+# Jupyter support (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
